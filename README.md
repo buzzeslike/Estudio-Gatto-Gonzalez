@@ -2,6 +2,112 @@
 <html>
   <head>
     <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Estudio Gatto-Gonzalez</title>
+    <style>
+      /* Estilos generales */
+      body {
+        font-family: Arial, sans-serif;
+        margin: 0;
+      }
+
+      header {
+        background-color: #333;
+        color: white;
+        display: flex;
+        justify-content: space-between;
+        padding: 1rem;
+      }
+
+      h1 {
+        margin: 0;
+      }
+
+      nav ul {
+        display: flex;
+        list-style: none;
+        margin: 0;
+        padding: 0;
+      }
+
+      nav a {
+        color: white;
+        display: block;
+        padding: 0.5rem 1rem;
+        text-decoration: none;
+      }
+
+      /* Estilos para la sección de banner */
+      #banner {
+        background-color: #f0f0f0;
+        text-align: center;
+        padding: 2rem;
+      }
+
+      #banner img {
+        display: block;
+        margin: 0 auto;
+        max-width: 100%;
+      }
+
+      /* Estilos para la sección de servicios */
+      #services {
+        padding: 2rem;
+        text-align: center;
+      }
+
+      /* Estilos para la sección de contacto */
+      #contact {
+        padding: 2rem;
+        text-align: center;
+      }
+
+      #contact ul {
+        display: flex;
+        justify-content: center;
+        list-style: none;
+        margin: 0;
+        padding: 0;
+      }
+
+      #contact li {
+        margin: 0 1rem;
+      }
+
+      #contact a {
+        background-color: #333;
+        color: white;
+        display: block;
+        padding: 0.5rem 1rem;
+        text-decoration: none;
+      }
+
+      /* Estilos para el pie de página */
+      footer {
+        background-color: #333;
+        color: white;
+        text-align: center;
+        padding: 1rem;
+      }
+    </style>
+  </head>
+  <body>
+    <header>
+      <h1>Estudio Gatto-Gonzalez</h1>
+      <nav>
+        <ul>
+          <li><a href="#services">Servicios</a></li>
+          <li><a href="#contact">Contacto</a></li>
+        </ul>
+      </nav>
+    </header>
+    <main>
+      <section id="ban
+
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="UTF-8">
     <title>Estudio Gatto-Gonzalez</title>
   </head>
   <body>
